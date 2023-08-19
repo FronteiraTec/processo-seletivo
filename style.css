@@ -1083,6 +1083,17 @@
        -ms-grid-row: 1;
        grid-row-start: 1;
      }
+
+     #w-node-_3f36ed1c-86ad-66f2-a7e0-a2e345d5b492-90b41439{
+        -ms-grid-column-span: 1;
+        grid-column-end: 3;
+        -ms-grid-column: 2;
+        grid-column-start: 2;
+        -ms-grid-row-span: 1;
+        grid-row-end: 2;
+        -ms-grid-row: 1;
+        grid-row-start: 1;
+     }
    
      #w-node-_3f36ed1c-86ad-66f2-a7e0-a2e345d5b495-90b41436 {
        -ms-grid-column-span: 1;
